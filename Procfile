@@ -1,1 +1,1 @@
-web: gunicorn testing:app --log-gile=-
+web: gunicorn testing:app --log-file=-
